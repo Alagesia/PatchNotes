@@ -9,7 +9,7 @@ See [docs/DESIGN.md](docs/DESIGN.md) for the full design bible.
 
 ---
 
-## Play it at alagesia.github.io/PatchNotes/
+## Play it at [alagesia.github.io/PatchNotes/](https://alagesia.github.io/PatchNotes/)
 
 ---
 
